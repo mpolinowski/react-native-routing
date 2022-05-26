@@ -1,0 +1,9 @@
+[
+    { "fruit": "Manzana", "colour" : "verde" },
+    { "fruit": "Piña", "colour" : "amarillo" },
+    { "fruit": "Uvas", "colour" : "rojo" },
+    { "fruit": "Fruta del Dragón" , "colour": "blanco" },
+    { "fruit": "Mango", "colour" : "amarillo" },
+    { "fruit": "Maracuyá", "colour" : "morado" },
+    { "fruit": "Plátano", "colour" : "amarillo"  }
+]
