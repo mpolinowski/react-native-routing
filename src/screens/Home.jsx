@@ -3,7 +3,7 @@ import { View } from 'react-native'
 
 import HomeList from '../components/HomeList'
 
-const HomeScreen = (props) => {
+const HomeScreen = () => {
     return (
         <View>
             <HomeList />
